@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiPwChlab5", "KiPwChlab5\KiPwChlab5.csproj", "{43511717-7BD5-4F71-982C-BED0CB6198E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43511717-7BD5-4F71-982C-BED0CB6198E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43511717-7BD5-4F71-982C-BED0CB6198E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43511717-7BD5-4F71-982C-BED0CB6198E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43511717-7BD5-4F71-982C-BED0CB6198E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
