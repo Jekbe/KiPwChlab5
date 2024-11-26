@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jekbe/RiderProjects/KiPwChlab5/KiPwChlab5/KiPwChlab5.csproj": {}
+    "C:\\Users\\patry\\RiderProjects\\KiPwChlab5\\KiPwChlab5\\KiPwChlab5.csproj": {}
   },
   "projects": {
-    "/home/jekbe/RiderProjects/KiPwChlab5/KiPwChlab5/KiPwChlab5.csproj": {
+    "C:\\Users\\patry\\RiderProjects\\KiPwChlab5\\KiPwChlab5\\KiPwChlab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jekbe/RiderProjects/KiPwChlab5/KiPwChlab5/KiPwChlab5.csproj",
+        "projectUniqueName": "C:\\Users\\patry\\RiderProjects\\KiPwChlab5\\KiPwChlab5\\KiPwChlab5.csproj",
         "projectName": "KiPwChlab5",
-        "projectPath": "/home/jekbe/RiderProjects/KiPwChlab5/KiPwChlab5/KiPwChlab5.csproj",
-        "packagesPath": "/home/jekbe/.nuget/packages/",
-        "outputPath": "/home/jekbe/RiderProjects/KiPwChlab5/KiPwChlab5/obj/",
+        "projectPath": "C:\\Users\\patry\\RiderProjects\\KiPwChlab5\\KiPwChlab5\\KiPwChlab5.csproj",
+        "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patry\\RiderProjects\\KiPwChlab5\\KiPwChlab5\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/home/jekbe/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -50,11 +49,11 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -84,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jekbe/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\patry\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
